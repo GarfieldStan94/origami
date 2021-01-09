@@ -1,0 +1,25 @@
+
+
+body{
+    background-color: aquamarine
+}
+.grid{
+    display: flexbox;
+    flex-wrap:initial ;
+
+}
+
+.origami{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    width: 250px;
+
+
+}
+.grid img{
+    border: 5px solid orange;
+    border-radius: 50px;
+}
+
+
+
